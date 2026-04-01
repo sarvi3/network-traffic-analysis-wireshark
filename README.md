@@ -22,6 +22,6 @@ To capture and analyze network traffic and understand DNS and TLS communication.
 
 ## Results
 
-* Observed DNS resolution process
+* Observed DNS resolution process and TLS handshake. Understood how encrypted communication protects data between client and server.
 * Identified encrypted TLS communication
 
