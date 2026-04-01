@@ -1,12 +1,27 @@
 # Network Traffic Analysis using Wireshark
 
 ## Objective
-To analyze network traffic and understand DNS and TLS communication.
+
+To capture and analyze network traffic and understand DNS and TLS communication.
 
 ## Tools Used
-Wireshark
+
+* Wireshark
 
 ## Key Concepts
-- DNS query and response
-- TLS handshake (Client Hello)
-- Packet details (IP addresses, ports)
+
+* DNS query and response
+* TLS handshake (Client Hello)
+* Packet analysis
+
+## Steps Performed
+
+* Captured live network traffic
+* Applied DNS and TLS filters
+* Analyzed packets and communication flow
+
+## Results
+
+* Observed DNS resolution process
+* Identified encrypted TLS communication
+
